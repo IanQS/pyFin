@@ -1,0 +1,10 @@
+*.ipynb_checkpoints
+*.pkl
+*.tar.gz
+*.pyc
+*__pycache__
+*.pdf
+*.csv
+*.png
+stock_prices
+imgs
