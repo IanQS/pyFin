@@ -19,6 +19,8 @@ I'm still very new to finance but I'm basing most of my explorations, and "tradi
 # Installation
 If you use virtual environments (and IMO you should) just run
 
-`mkvirtualenv dearlyBeloved -r packages.txt`
+`mkvirtualenv pyFin -r packages.txt`
+
+assuming you have [virtualenvwrapper](http://virtualenvwrapper.readthedocs.io/en/latest/command_ref.html) installed. Find out more about [virtualenv](https://virtualenv.pypa.io/en/stable/)
 
 you'll need to then install PyTorch from the [PyTorch website](http://pytorch.org/)
