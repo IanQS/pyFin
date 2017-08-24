@@ -6,5 +6,6 @@
 *.pdf
 *.csv
 *.png
-stock_prices
-imgs
+1_classification_regression/stock_prices
+1_classification_regression/imgs
+3_company_clustering/company_desc
