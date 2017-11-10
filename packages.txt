@@ -40,6 +40,7 @@ nbconvert
 nbformat
 newsapi
 notebook
+nltk
 numpy
 olefile
 pachi-py
