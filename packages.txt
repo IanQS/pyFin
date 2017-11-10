@@ -38,6 +38,7 @@ mistune
 mujoco-py
 nbconvert
 nbformat
+newsapi
 notebook
 numpy
 olefile
