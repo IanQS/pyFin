@@ -1,5 +1,7 @@
 # Roadmap
 
+I've included summaries of the readings for the Natural Language Processing section for anyone who doesn't want to get too focused on it. They can be found in the [Condensed-Readings](Condensed Readings) file.
+
 ## Scraper:
 1. register for an API key with [newsapi](https://newsapi.org/)
 
